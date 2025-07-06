@@ -1,0 +1,11 @@
+Archit Jain is a robotics engineer and incoming Master’s student in Mechanical Engineering at the University of Washington, Seattle (Fall 2025). He specializes in autonomy, control, and robotic systems integration, with a focus on mobile platforms such as quadrupeds, humanoids, and manipulators.
+
+Since June 2024, Archit has been working at Kalyani Strategic Management Systems (Kalyani Group) as a Robotics Engineer, where he designs and implements real-world autonomy stacks. His work spans robot perception pipelines, real-time control loops, and multi-robot communication systems for defense and commercial-grade robotic platforms.
+
+From June 2023 to June 2024, he was a Senior Project Technical Assistant at the Embedded Real-Time Systems Laboratory (ERTS Lab), IIT Bombay, under Prof. Kavi Arya. There, he developed lightweight grasping algorithms for unknown objects using point cloud segmentation and integrated them into ROS-based manipulation pipelines. He also led the development of a warehouse-themed mobile manipulation project, combining SLAM, motion planning (Nav2), and UR5 arm control (MoveIt). As part of e-Yantra’s national outreach, he trained 100+ faculty and mentored over 1,300 students in embedded systems and robotics.
+
+Archit completed his B.Tech in Production Engineering from Vishwakarma Institute of Technology (VIT), Pune in 2023, graduating with a GPA of 9.27. During his undergrad, he worked on mechanical design and actuator development for humanoid robots and robotic arms. He also interned at FlytBase (Jan–May 2023), where he developed ROS middleware for Beyond Visual Line of Sight (BVLOS) drone missions, contributing to autonomous waypoint navigation and failsafe handling.
+
+His work has earned national recognition — including 1st place in the **Smart India Hackathon – Hardware Edition 2022**, and **AIR 5 (Best Software Award)** in **DD National ABU Robocon 2022**. He is a certified SolidWorks Additive Manufacturing Associate and has experience with ROS 1, ROS 2, Nav2, SLAM, MoveIt, computer vision, and embedded Linux systems.
+
+Archit enjoys working across the full stack of robotics — from gears and joints to autonomy and AI — with a practical, systems-level mindset rooted in real-world deployment.
