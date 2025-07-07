@@ -1,3 +1,16 @@
+## Projects:
+
+### CL Theme
+Designed and developed the “Cosmo Logistic” theme for the e-Yantra Robotics Competition (eYRC) 2023–24, conducted by IIT Bombay. The project involved the integration of a mobile robot and a UR5 robotic arm to autonomously sort and prepare packages in a simulated inter-planetary warehouse environment. As the theme developer, I engineered the complete pipeline — from autonomous navigation and object localization to coordinated manipulation. Implemented a ROS 2-based system combining SLAM for localization, the Nav2 stack for navigation, and MoveIt for motion planning and manipulation. The system was first validated in the Gazebo simulator and later deployed on physical hardware at IIT Bombay for end-to-end testing. This theme was designed for national-level deployment, enabling students across India to solve advanced mobile manipulation problems using a realistic robotics stack.
+
+### Robot Arm Actuator
+Designed and fabricated a compact, high-torque actuator for robotic arms operating under heavy-load conditions. The actuator integrates a NEMA-17 stepper motor coupled with a 10:1 custom gear reduction system, achieving a peak torque output of 42 kg·cm at the elbow joint. The system was optimized for minimal footprint and mechanical efficiency through torque transmission analysis, backlash minimization, and bearing load evaluations. Housing and gear components were modeled in SolidWorks and fabricated using aluminum alloy for strength-to-weight optimization. This actuator provides a modular solution for precision-controlled joint motion in industrial and research-grade robotic manipulators.
+
+### Humanoid
+Led the mechanical design of a humanoid robot’s upper body with a focus on precision actuation and compact form factor. Developed a 2-DOF parallel manipulator for neck movement, capable of ±30° pitch and ±45° yaw with sub-degree repeatability. Designed custom linear actuators for the shoulder joint using a 14:1 gear reduction system. Performed detailed gear train calculations, load analysis, and actuator sizing to ensure smooth motion under varying load conditions. Created fully dimensioned 2D manufacturing drawings using SolidWorks, incorporating GD&T and tolerances within ±0.05 mm for CNC milling and laser-cut profiles. The system was fabricated using aluminum for structural components and PLA for non-load-bearing 3D printed parts. The project aimed to improve humanoid upper body dexterity through optimized actuator placement and precise kinematic control.
+
+
+
 ## About Me - V2 - Full intro
 
 I'm an incoming Fall '25 Master's student (MechE) at the University of Washington.
