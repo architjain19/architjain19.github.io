@@ -1,6 +1,6 @@
 - additive manufacturing paper
 - final year project
-- robocon reports
+<!-- - robocon reports -->
 
 <!-- - cosmo logistic theme -->
 - quadruped robot sih
