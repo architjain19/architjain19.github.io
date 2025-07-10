@@ -20,6 +20,15 @@ Designed and fabricated a compact, high-torque actuator for robotic arms operati
 Led the mechanical design of a humanoid robot’s upper body with a focus on precision actuation and compact form factor. Developed a 2-DOF parallel manipulator for neck movement, capable of ±30° pitch and ±45° yaw with sub-degree repeatability. Designed custom linear actuators for the shoulder joint using a 14:1 gear reduction system. Performed detailed gear train calculations, load analysis, and actuator sizing to ensure smooth motion under varying load conditions. Created fully dimensioned 2D manufacturing drawings using SolidWorks, incorporating GD&T and tolerances within ±0.05 mm for CNC milling and laser-cut profiles. The system was fabricated using aluminum for structural components and PLA for non-load-bearing 3D printed parts. The project aimed to improve humanoid upper body dexterity through optimized actuator placement and precise kinematic control.
 
 
+## About Me - V3 - Short intro
+I'm an incoming Fall '25 Master's student at the <a href="https://www.washington.edu/">University of Washington</a>.
+
+I build robotic systems that reason, adapt, and act — solving non-trivial problems in messy real world. My interests lie in autonomy, control, and learning, with a particular excitement for robots that move through space (mobile robots, quadrupeds, arms-on-wheels) and make sense of it along the way.
+
+Currently, I work as a Robotics Engineer at <a href="https://www.bharatforge.com/">Kalyani Group</a>, developing autonomy stacks for quadrupeds and humanoids. Before this, I spent a year at the <a href="https://www.e-yantra.org/">ERTS Lab</a>, <a href="https://www.cse.iitb.ac.in/research/labs">IIT Bombay</a>, as a Project Assistant under <a href="https://scholar.google.co.in/citations?user=Qz7H0U0AAAAJ&hl=en">Prof. Kavi Arya</a>. Checkout my <a href="data/architjain-bio.txt">Bio</a> to know more about my past life!
+
+I completed my Bachelors in Production Engineering from <a href="https://www.vit.edu/">VIT Pune</a> and got my start in robotics by building and breaking things — custom actuators, humanoids, drone middleware. Some of these led to podium finishes at the <a href="https://www.sih.gov.in/sih2022s">Smart India Hackathon</a> and <a href="https://en.wikipedia.org/wiki/ABU_Robocon#ABU_Robocon_2022">ABU Robocon</a>; others ended in flying gears and burned stepper motors.
+
 
 ## About Me - V2 - Full intro
 
